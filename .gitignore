@@ -1,0 +1,8 @@
+# config
+**/*.yaml*
+/.env
+
+.idea
+
+# database data
+/db-data
