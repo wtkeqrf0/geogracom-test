@@ -1,0 +1,1 @@
+To run instance locally, insert `docker compose up -d --build` into your command line. Service will be available on 0.0.0.0:8080
